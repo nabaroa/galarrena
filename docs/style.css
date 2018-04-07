@@ -1,0 +1,9 @@
+body{
+  color: #333;
+  font-size: 20px;
+}
+header, article {
+  max-width: 600px;
+  margin: auto;
+  margin-top: 80px;
+}
